@@ -1,7 +1,5 @@
 # FakeBlock
 
-[![Build Status](https://drone.husk.pro/api/badges/husK/FakeBlock/status.svg)](https://drone.husk.pro/husK/FakeBlock)
-
 This versatile plugin allows you to create fake blocks that exist for some players and do not exist for others!
 
 These fake blocks are indistinguishable from real blocks and prevent players from walking through them, or interacting
