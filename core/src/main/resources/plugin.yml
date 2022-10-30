@@ -1,0 +1,13 @@
+name: FakeBlock
+version: ${project.version}
+main: pro.husk.fakeblock.FakeBlock
+author: husK
+description: Enables the creation of fake blocks
+commands:
+  fakeblock:
+    description: Shows all available commands
+    usage: /fakeblock
+    aliases: [ fb ]
+api-version: 1.13
+depend: [ ProtocolLib, WorldEdit ]
+softdepend: [ Multiverse-Core, LuckPerms ]
