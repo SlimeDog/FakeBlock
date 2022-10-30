@@ -1,4 +1,4 @@
-NOTE: Husk removed the sources from Github (and not found elsewhere). Since it was originally released under an MIT open source licence (included), it is provided here, from a saved copy, for further development.
+NOTE: Husk removed the sources from Github sometime after the release of 2.1.0 (and the sources were not found elsewhere). Since it was originally released under an MIT open source licence (included), and we fortunately saved a copy earlier, it is provided here for further development.
 
 # FakeBlock
 
