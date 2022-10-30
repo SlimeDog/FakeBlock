@@ -1,5 +1,7 @@
 NOTE: Husk removed the sources from Github sometime after the release of 2.1.0 (and the sources were not found elsewhere). Since it was originally released under an MIT open source licence (included), and we fortunately saved a copy earlier, it is provided here for further development.
 
+Credit for the original code belongs to [him](https://www.spigotmc.org/resources/12830/).
+
 # FakeBlock
 
 This versatile plugin allows you to create fake blocks that exist for some players and do not exist for others!
