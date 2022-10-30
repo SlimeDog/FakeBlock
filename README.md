@@ -1,3 +1,6 @@
+NOTE: Husk removed the (open) sources from Github (and not found elsewhere).
+      Fortunately, we saved a copy previously.
+
 # FakeBlock
 
 This versatile plugin allows you to create fake blocks that exist for some players and do not exist for others!
